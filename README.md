@@ -44,7 +44,7 @@ Step 1: Create two Vitrual Machines in Azure
 - I recommend using the same login information for both VMs
 <p>
  </p>
-<img src="https://imgur.com/VL9V0o6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https:///VL9V0o6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 </p>
 <br />
@@ -67,7 +67,7 @@ Step 3: Remote Desktop into Client-1
 </p>
 <br />
 <p>
-<img src="https://imgur.com/bidy0lW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https:///bidy0lW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   
   <- Absence of ICMP traffic because no ping command has been made/>
 <img src="https://imgur.com/Yifwztp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -105,7 +105,7 @@ Step 4: Use NSG to Deny ICMP Traffic for DC-1 in Azure Portal and Observe Traffi
     - *Press Ctrl+C to stop PowerShell ping
       <p>
       </p>
-<img src="https://imgur.com/5y1gdyo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https:///5y1gdyo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
     - no response on wireshark
   <p>
